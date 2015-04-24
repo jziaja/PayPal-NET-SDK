@@ -13,4 +13,3 @@ The sample comes pre-configured with a test account. In order to have the sample
 
 * [PayPal .NET SDK on GitHub](https://github.com/paypal/PayPal-NET-SDK)
 * [PayPal Developer](https://developer.paypal.com/docs/api/)
-
